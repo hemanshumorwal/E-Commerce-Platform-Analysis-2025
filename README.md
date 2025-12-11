@@ -44,6 +44,7 @@ Records: 100K+ orders combined
 ## 4️⃣ Data Cleaning & Preparation
 
 Data was cleaned using:
+
 ✔ Python
 -Handled missing timestamps
 -Converted date fields
