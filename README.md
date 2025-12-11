@@ -44,7 +44,6 @@ Records: 100K+ orders combined
 ## 4️⃣ Data Cleaning & Preparation
 
 Data was cleaned using:
-
 ✔ Python
 -Handled missing timestamps
 -Converted date fields
@@ -115,22 +114,35 @@ Below are the visuals included in the dashboard:
 ---
 
 ## Tool	Purpose
--Python	- Data cleaning & transformation
--Excel	- Preprocessing, removing duplicates
--Power BI -	Data modelling, DAX, dashboard creation
--DAX	KPI  -calculations & metrics
--GitHub	- Project documentation
+
+1) Python	- Data cleaning & transformation
+
+2) Excel	- Preprocessing, removing duplicates
+
+3) Power BI -	Data modelling, DAX, dashboard creation
+
+4) DAX	KPI  -calculations & metrics
+
+5) GitHub	- Project documentation
 
 ---
 
 ## 8️⃣ Skills Demonstrated
--Data Cleaning & ETL
--Data Modelling in Power BI
--DAX Calculations (KPIs & Measures)
--Visual Storytelling
--Dashboard UX/UI Design
--Analytical Thinking & Insight Extraction
--Business Intelligence Reporting
+
+1) Data Cleaning & ETL
+
+2) Data Modelling in Power BI
+
+3) DAX Calculations (KPIs & Measures)
+
+4) Visual Storytelling
+
+
+5) Dashboard UX/UI Design
+
+6) Analytical Thinking & Insight Extraction
+
+7) Business Intelligence Reporting
 
 ---
 
