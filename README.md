@@ -150,6 +150,7 @@ Below are the visuals included in the dashboard:
 
 ## 8️⃣ Contact & Portfolio
 📧 **Email:** [Email me](mailto:morwalhemanshu@gmail.com)
+
 💼 **LinkedIn:** [linkedin.com/in/hemanshumorwal](https://linkedin.com/in/hemanshumorwal)  
 🐙 **GitHub:** [github.com/hemanshumorwal](https://github.com/hemanshumorwal)
 
