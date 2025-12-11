@@ -21,7 +21,7 @@ This **E-Commerce Analytics Dashboard** provides a complete 360° view of platfo
 
 ---
 
-##3️⃣ Dataset Description
+3️⃣ Dataset Description
 Dataset used: Brazilian E-Commerce Public Dataset by Olist 
 
 Story
