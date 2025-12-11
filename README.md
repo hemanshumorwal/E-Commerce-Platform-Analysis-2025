@@ -1,6 +1,6 @@
 # E-Commerce-Platform-Analysis-2025
 
-[!(url)](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/<image-file>)](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/<image-file>)
+[![Dashboard](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/<image-file>)](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/<image-file>)
 
 🧹 1️⃣ Project Overview
 
