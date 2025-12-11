@@ -1,6 +1,7 @@
 # E-Commerce-Platform-Analysis-2025
 
-[![([url](https://github.com/hemanshumorwal/E-Commerce-Platform-Analysis-2025/blob/main/Screenshot%20(19).png))](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/<image-file>)](https://raw.githubusercontent.com/<your-username>/<your-repo>/main/<image-file>)
+[![Dashboard](https://raw.githubusercontent.com/hemanshumorwal/E-Commerce-Platform-Analysis-2025/main/Screenshot%20(19).png)](https://raw.githubusercontent.com/hemanshumorwal/E-Commerce-Platform-Analysis-2025/main/Screenshot%20(19).png)
+
 
 🧹 1️⃣ Project Overview
 
