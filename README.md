@@ -1,6 +1,5 @@
 # E-Commerce-Platform-Analysis-2025
 
-[![Dashboard](https://raw.githubusercontent.com/hemanshumorwal/E-Commerce-Platform-Analysis-2025/main/Screenshot%20(19).png)](https://raw.githubusercontent.com/hemanshumorwal/E-Commerce-Platform-Analysis-2025/main/Screenshot%20(19).png)
 
 
 🧹 1️⃣ Project Overview
