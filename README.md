@@ -2,7 +2,7 @@
 
 ![Dashboard](https://raw.githubusercontent.com/hemanshumorwal/E-Commerce-Platform-Analysis-2025/main/Screenshot%20(22).png)
 
-🧹 1️⃣ Project Overview
+## 1️⃣ Project Overview
 
 This **E-Commerce Analytics Dashboard** provides a complete 360° view of platform performance, covering delivery efficiency, seller revenue trends, freight distribution, customer segmentation, product review behavior, payment sentiment, and key KPIs. The dashboard is fully interactive, enabling stakeholders to quickly identify trends and operational bottlenecks. The workflow includes Python-based data cleaning, Excel preprocessing, **Power BI** data modelling, KPI creation, and final dashboard storytelling.
 
